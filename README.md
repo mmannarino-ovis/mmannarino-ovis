@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmannarino-ovis
 - 👀 I’m interested in ... too many areas to list yet not enough time to explore
-- 🌱 I’m currently learning ... ethereum
+- 🌱 I’m currently learning ... ethereum, binance and algorand blockchains!  Wahooo!
 - 💞️ I’m looking to collaborate on ... blockchain apps
 - 📫 How to reach me ... michael@equteq.com
 
